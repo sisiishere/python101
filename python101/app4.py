@@ -1,0 +1,6 @@
+print(10 + 3)
+print(13 - 3)
+print(10 * 3)
+print(30 / 3)
+print(10 ** 3)
+print(1000 // 3)
